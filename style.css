@@ -1,0 +1,26 @@
+#red {
+    color: red;
+}
+.blue {
+     color: blue;
+ }
+span {
+     margin-right: 50px;
+ background-color: azure;
+ color: pink;
+ }
+.red {
+ color: red;
+ }
+.yellow {
+ color: yellow;
+ }
+#poudarjen {
+ border: solid 2px red;
+ color: green;
+}
+.navigation {
+background-color: red;
+height: 50px;
+width: auto;
+}

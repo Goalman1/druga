@@ -1,0 +1,44 @@
+#navigation {
+  background-image: url("ozadje.jpg");
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+#prvidel {
+font-family: courier;
+font-size: 30px;
+font-weight: bold;
+font-style: book;
+color: white;
+}
+#drugidel {
+font-family: courier;
+font-size: 15px;
+margin-left: 10px;
+margin-right: 1px;
+}
+.tretjidel {
+font-family: courier;
+font-size: 15px;
+margin-left: 10px;
+margin-right: 10px;
+}
+#cetrtidel {
+position: relative;
+left: 250px;
+}
+#petidel {
+font-family: arial;
+font-size: 30px;
+margin-left: 150px;
+}
+#gumb {
+color: white;
+font-size: 10px;
+background-color: blue;
+height: 22px;
+width: 165px;
+}
+

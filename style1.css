@@ -1,0 +1,45 @@
+#navigation {
+background-color: silver;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+p {
+text-align: center;
+}
+#h2 {
+font-family: calibry;
+font-weight: 10;
+font-style: book;
+text-align: center;
+font-size: 25px;
+}
+#h3 {
+font-family: calibry;
+text-align: center;
+font-size: 13px
+}
+#gumb {
+color: white;
+font-size: 10px;
+background-color: blue;
+height: 22px;
+width: 165px;
+}
+#mail {
+background-color: yellow;
+font-size: 10px;
+height: 24px;
+width: 155px;
+}
+#pomoc {
+color: blue;
+text-align: right;
+font-size: 10px
+}
+#novnaslov {
+color: blue;
+text-align: center;
+}
+
